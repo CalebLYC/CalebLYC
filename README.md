@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CalebLYC
-- 👀 I’m interested in web developpement
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in web and mobile developpement
+-   I master laravel and react.js and basically next.js
+- 🌱 I’m currently learning  flutter and node.js
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me discord
 
