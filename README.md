@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CalebLYC
 - 👀 I’m interested in web and mobile developpement
--   I master laravel and react.js and basically next.js
-- 🌱 I’m currently learning  flutter and node.js
-- 💞️ I’m looking to collaborate on web projects
+-   I use laravel, flutter and react js
+- I’m looking to collaborate on web, mobile and other projects
 - 📫 How to reach me discord
 
 <!---
