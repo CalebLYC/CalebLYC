@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/CalebLYC.png" width="150" alt="Caleb LOYI's avatar" />
-</p>
+</p>-->
 
 # 👋 Hi, I'm Caleb LOYI!
 
